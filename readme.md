@@ -70,7 +70,6 @@ The goal is to understand how missing data affects classifier performance and wh
 
 ## How to Run
 1. Install dependencies:  
-```bash
 pip install numpy pandas matplotlib scikit-learn
 
 2. Download the dataset from the link : https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset and change the path of the file accordingly.
